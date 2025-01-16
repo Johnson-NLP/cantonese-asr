@@ -1,3 +1,5 @@
+[Update][16 Jan, 2025] Add 1000 Cantonese to Mandarin translation labels for a public testset.
+
 [Update][1 Feb, 2024] We release the .wav data of the dataset [Google Drive Link](https://drive.google.com/file/d/1epfYMMhXdBKA6nxPgUugb2Uj4DllSxkn/view?usp=drive_link). Please use it for research purposes only.
 
 ## MDCC Dataset
